@@ -1,2 +1,2 @@
 # Mydev
-A website for programers to find job
+A website for programers to find jobs
